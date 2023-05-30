@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab8_css.MainPage">
+    <ContentPage.Resources>
+        <StyleSheet Source="../Styles/Styles.css" />
+    </ContentPage.Resources>
+
+    <StackLayout >
+        <Button Text="CSS en Xamarin" StyleClass="CSSButton" />
+        <Label Text="Bienvenido MiltonGuzman" TextColor="White" StyleClass="lblTitulo" />
+
+        <Image Source="rick.jpg" />
+
+        <Label x:Name="lbl" TextColor="White" Text="Rick y Morty" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+
+        <Button Text="Ver más imágenes" VerticalOptions="EndAndExpand"/>
+        <Button Text="Menú" VerticalOptions="EndAndExpand" />
+    </StackLayout>
+
+</ContentPage>

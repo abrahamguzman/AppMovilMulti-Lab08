@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bC1D6LkxVdy1OfHnLLlVeWD4tyEbSh2M/QmqV0LoDtGRRi0SPEjvT+xqq3DPng/7EyAsLDQ58tb5/Rir48nCsg==",
+  "success": true,
+  "projectFilePath": "C:\\proyecto\\LAB8-XAMARIN-master\\Lab8_css\\Lab8_css.iOS\\Lab8_css.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABRAHAM GUZMAN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ABRAHAM GUZMAN\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ABRAHAM GUZMAN\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
